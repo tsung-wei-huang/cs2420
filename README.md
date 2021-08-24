@@ -11,7 +11,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 + Class (CS 2420)
   + Location: https://utah.zoom.us/j/2468214418
-  + Time: 08:05 AM - 09:25 AM, Monday / Wednesday (excluding holidays)
+  + Time: 9:00 AM - 10:20 AM, Monday / Wednesday (excluding holidays)
 + Instructor: [Prof. Tsung-Wei Huang][Tsung-Wei Huang]
   + Email: tsung-wei.huang@utah.edu
   + Office hour: by appointment
