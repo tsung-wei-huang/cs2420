@@ -18,7 +18,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
   + Office hour: by appointment
 + Teaching Assistant (TA): No - I will help you directly
 + Scoring
-  + Weekly programming assignments (PA): 60%
+  + Weekly In-class Lab: 60%
   + Take-home exams (1-2 midterms and 1 final): 40%
 + Textbook: [Introduction to Algorithms, 3rd Edition (The MIT Press), Thomas H. Cormen](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
   + Although the Textbook is optional, we highly recommend you buying one.
@@ -27,7 +27,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 | Lecture  | Topic | Assignment | Due | 
 | :-:      | :-:   | :-:        | :-: |
-| 08/24/20 | Introduction | - | - |
+| 08/24/20 | [Introduction](slides/introduction.pdf) | - | - |
 
 # Labs
 
