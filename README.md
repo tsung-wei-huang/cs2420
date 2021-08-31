@@ -27,7 +27,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 | Lecture  | Topic | Assignment | Due | 
 | :-:      | :-:   | :-:        | :-: |
-| 08/24/20 | [Introduction](slides/introduction.pdf) | - | - |
+| 08/30/21 | [Introduction](slides/introduction.pdf) | - | - |
+| 09/01/21 | [C++ Crash Course](slides/cpp_crash_course.pdf) | - | - |
 
 # Labs
 
