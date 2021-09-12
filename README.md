@@ -28,9 +28,10 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | Lecture  | Topic | Assignment | Due | 
 | :-:      | :-:   | :-:        | :-: |
 | 08/30/21 | [Introduction](slides/introduction.pdf) | - | - |
-| 09/01/21 | [C++ Crash Course](slides/cpp_crash_course.pdf) | - | - |
+| 09/01/21 | [C++ Crash Course - I](slides/cpp_crash_course.pdf) | - | - |
 | 09/06/21 | No Lecture (Labor Day) | - | - |
 | 09/08/21 | C++ Crash Course - II | - | - |
+| 09/13/21 | C++ Crash Course - III | - | - |
 
 # Labs
 
@@ -47,7 +48,7 @@ you need to enroll in the Lab section (class #19145).
 
 # Grade
 
-You can see your score [TBD](./).
+You can see your score [here](https://docs.google.com/spreadsheets/u/1/d/1Zb3qnFUH8AwnAv3TjLiEfYJebGayNAxXnMt2l3Qd4lo/edit#gid=0).
 
 
 ---
