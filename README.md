@@ -20,6 +20,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 + Scoring
   + Weekly In-class Lab: 60%
   + Take-home exams (1-2 midterms and 1 final): 40%
+  + [Scoresheet](https://docs.google.com/spreadsheets/d/1Zb3qnFUH8AwnAv3TjLiEfYJebGayNAxXnMt2l3Qd4lo/edit?usp=sharing)
 + Textbook: [Introduction to Algorithms, 3rd Edition (The MIT Press), Thomas H. Cormen](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
   + Although the Textbook is optional, we highly recommend you buying one.
 
