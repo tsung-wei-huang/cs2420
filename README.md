@@ -22,7 +22,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
   + Take-home exams (1-2 midterms and 1 final): 40%
   + [Scoresheet](https://docs.google.com/spreadsheets/d/1Zb3qnFUH8AwnAv3TjLiEfYJebGayNAxXnMt2l3Qd4lo/edit?usp=sharing)
 + Textbook: [Introduction to Algorithms, 3rd Edition (The MIT Press), Thomas H. Cormen](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
-  + Although the Textbook is optional, we highly recommend you buying one.
+  + Although the Textbook is optional, we highly recommend you buy one.
 
 # Lectures
 
@@ -33,6 +33,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/06/21 | No Lecture (Labor Day) | - | - |
 | 09/08/21 | C++ Crash Course - II | - | - |
 | 09/13/21 | C++ Crash Course - III | - | - |
+| 09/15/21 | [Asymptotic Analysis](slides/asymptotic_analysis.pdf) | - | - |
 
 # Labs
 
