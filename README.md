@@ -34,6 +34,9 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/08/21 | C++ Crash Course - II | - | - |
 | 09/13/21 | C++ Crash Course - III | - | - |
 | 09/15/21 | [Asymptotic Analysis](slides/asymptotic_analysis.pdf) | - | - |
+| 09/20/21 | No Lecture (Mid-Harvest Festival) | - | - |
+| 09/22/21 | No Lecture (Mid-Harvest Festival) | - | - |
+| 09/27/21 | Algorithm Analysis | - | - |
 
 # Labs
 
