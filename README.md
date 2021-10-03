@@ -37,6 +37,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/20/21 | No Lecture (Mid-Harvest Festival) | - | - |
 | 09/22/21 | No Lecture (Mid-Harvest Festival) | - | - |
 | 09/27/21 | [Algorithm Analysis - I](slides/algorithm_analysis.pdf) | - | - |
+| 10/04/21 | No Lecture (National Foundation Day) | - | - |
 
 # Labs
 
