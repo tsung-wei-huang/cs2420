@@ -39,6 +39,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/27/21 | [Algorithm Analysis - I](slides/algorithm_analysis.pdf) | - | - |
 | 10/04/21 | No Lecture (National Foundation Day) | - | - |
 | 10/06/21 | [List](slides/lists.pdf) | - | - |
+| 10/11/21 | No Lecture (Hangeul Proclamation Day) | - | - |
 
 # Labs
 
