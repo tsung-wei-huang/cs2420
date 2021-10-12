@@ -40,6 +40,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/04/21 | No Lecture (National Foundation Day) | - | - |
 | 10/06/21 | [List](slides/lists.pdf) | - | - |
 | 10/11/21 | No Lecture (Hangeul Proclamation Day) | - | - |
+| 10/13/21 | [Stack - I](slides/stack.pdf) | - | - |
 
 # Labs
 
