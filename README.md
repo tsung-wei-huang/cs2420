@@ -41,6 +41,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/06/21 | [List](slides/lists.pdf) | - | - |
 | 10/11/21 | No Lecture (Hangeul Proclamation Day) | - | - |
 | 10/13/21 | [Stack - I](slides/stack.pdf) | - | - |
+| 10/18/21 | [Stack - II](slides/stack.pdf) | - | - |
+| 10/20/21 | [Queue](slides/queue.pdf) | - | - |
 
 # Labs
 
@@ -51,7 +53,27 @@ you need to enroll in the Lab section (class #19145).
 
 # Exams
 
-## Midterm: TBD
+## Midterm: 10/25 - 11/1 (take-home exam)
+
+We will have our first midterm on the week of 10/25 - 11/1.
+There are a couple of things to know:
+
+  + Midterm will be take-home
+  + Midterm will cover both concept and programming questions we have lectured so far
+  + Midterm will count for *10-30%* of your final grade (PS: the actual ratio may be adjusted)
+
+We believe learning how to find solutions using the internet and your social network is important in today's software engineering landscape.
+As a result, you are completely free to:
+  + use the internet resources
+  + discuss the questions with your friends
+
+However, this doesn't mean you can simply copy the solutions from others.
+We trust you but don't take it for granted. 
+Ultimately, it is your knowledge and career, not ours.
+Never violate the [rules of academic integrity](https://regulations.utah.edu/academics/6-400.php). 
+
+You will need to upload your solution through Canvas by the end of 11/1.
+
 
 ## Final Exam: TBD
 
