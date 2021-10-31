@@ -44,6 +44,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/18/21 | [Stack - II](slides/stack.pdf) | - | - |
 | 10/20/21 | [Queue](slides/queue.pdf) | - | - |
 | 10/25/21 | [Midterm](exams/midterm-1.docx) | - | - |
+| 11/01/21 | [Priority Queue](slides/priority_queue.pdf) | - | - |
 
 # Labs
 
