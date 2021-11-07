@@ -46,6 +46,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/25/21 | [Midterm](exams/midterm-1.docx) | - | - |
 | 11/01/21 | [Priority Queue](slides/priority_queue.pdf) | - | - |
 | 11/03/21 | [Binary Heap](slides/binary_heap.pdf) | - | - |
+| 11/08/21 | [Binary Heap - II](slides/binary_heap.pdf) | - | - |
 
 # Labs
 
