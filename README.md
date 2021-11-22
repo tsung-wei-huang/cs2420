@@ -50,6 +50,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/10/21 | [Heap Sort](slides/heap_sort.pdf) | - | - |
 | 11/15/21 | [Sorting](slides/sorting.pdf) | - | - |
 | 11/17/21 | [Bubble Sort](slides/bubble_sort.pdf) | - | - |
+| 11/22/21 | [Midterm-2](exams/midterm-2.docx) | - | - |
+| 11/24/21 | Midterm continued | - | - |
 
 # Labs
 
@@ -81,6 +83,10 @@ Never violate the [rules of academic integrity](https://regulations.utah.edu/aca
 
 You will need to upload your solution through Canvas by the end of 11/1.
 
+## Midterm 2: 11/22 - 11/29 (take-home exam)
+
+Midterm 2 is the same as midter 1, except it's all programming questions. 
+You will need to upload your solution through Canvas by the end of 11/29
 
 ## Final Exam: TBD
 
