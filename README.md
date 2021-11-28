@@ -52,6 +52,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/17/21 | [Bubble Sort](slides/bubble_sort.pdf) | - | - |
 | 11/22/21 | [Midterm-2](exams/midterm-2.docx) | - | - |
 | 11/24/21 | Midterm continued | - | - |
+| 11/29/21 | [Tree](slides/tree.pdf) | - | - |
 
 # Labs
 
