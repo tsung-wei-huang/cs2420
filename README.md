@@ -53,6 +53,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/22/21 | [Midterm-2](exams/midterm-2.docx) | - | - |
 | 11/24/21 | Midterm continued | - | - |
 | 11/29/21 | [Tree](slides/tree.pdf) | - | - |
+| 12/1/21  | [Tree Traversal](slides/tree_traversal.pdf) | - | - |
 
 # Labs
 
