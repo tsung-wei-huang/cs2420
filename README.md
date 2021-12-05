@@ -54,6 +54,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/24/21 | Midterm continued | - | - |
 | 11/29/21 | [Tree](slides/tree.pdf) | - | - |
 | 12/1/21  | [Tree Traversal](slides/tree_traversal.pdf) | - | - |
+| 12/6/21  | [Graph Algorithms](slides/graph_algorithms.pdf) | - | - |
 
 # Labs
 
@@ -90,7 +91,9 @@ You will need to upload your solution through Canvas by the end of 11/1.
 Midterm 2 is the same as midter 1, except it's all programming questions. 
 You will need to upload your solution through Canvas by the end of 11/29
 
-## Final Exam: TBD
+## Final Exam: 12/8 (class time) - 12/12 
+
+The format of the final exam is the same as midterms and will run from 12/8 to 12/12 (23:59 PM).
 
 # Grade
 
