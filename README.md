@@ -55,6 +55,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/29/21 | [Tree](slides/tree.pdf) | - | - |
 | 12/1/21  | [Tree Traversal](slides/tree_traversal.pdf) | - | - |
 | 12/6/21  | [Graph Algorithms](slides/graph_algorithms.pdf) | - | - |
+| 12/8/21  | [Final](exams/final.docx) | - | - |
 
 # Labs
 
